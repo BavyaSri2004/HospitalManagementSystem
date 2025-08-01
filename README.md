@@ -18,4 +18,4 @@ A **console-based Java application** that manages hospital operations like **add
  🛠️ Tech Stack
 
 - **Java (JDK 20)**
-- **MySQL** (via My
+- **MySQL** 
